@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Usama and I'm a Software Engineering student from Canada. Here's some info about me!
+
+⚡ Interests:
+
+Flutter
+
+🔭 Current project:
+
+🌱 Interests:
+
+Web development.
+Creating content (YouTube/Twitch).
+💬 Reach me by email or LinkedIn!  | 
+
+📫 Visit my website: 

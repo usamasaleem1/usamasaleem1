@@ -21,6 +21,8 @@ My name is Usama and I'm a Software Engineering student from Canada. Here's some
 - CSS, HTML, JS
 - Flutter
 - UI/UX design
+- Java
+- Python
 
 💬 Reach me by email or LinkedIn!  usama.saleem (at) hotmail.com | https://ca.linkedin.com/in/saleemusama
 

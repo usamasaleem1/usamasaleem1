@@ -24,7 +24,7 @@ My name is Usama and I'm a Software Engineering student from Canada. Here's some
 - Java
 - Python
 
-💬 Reach me by email or LinkedIn!  usama.saleem (at) hotmail.com | https://ca.linkedin.com/in/saleemusama
+💬 Reach me by email or LinkedIn!  usama.saleem[at]hotmail.com | https://ca.linkedin.com/in/saleemusama
 
-📫 Visit my dribbble: 
+🖌️ Visit my dribbble: 
 https://dribbble.com/saleemu

@@ -18,14 +18,11 @@ My name is Usama and I'm a Software Engineering student from Canada. Here's some
 
 ⚡ Interests:
 
+- CSS, HTML, JS
 - Flutter
+- UI/UX design
 
-🔭 Current project:
+💬 Reach me by email or LinkedIn!  usama.saleem (at) hotmail.com | https://ca.linkedin.com/in/saleemusama
 
-🌱 Interests:
-
-Web development.
-Creating content (YouTube/Twitch).
-💬 Reach me by email or LinkedIn!  | 
-
-📫 Visit my website: 
+📫 Visit my dribbble: 
+https://dribbble.com/saleemu

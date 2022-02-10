@@ -18,7 +18,7 @@ My name is Usama and I'm a Software Engineering student from Canada. Here's some
 
 ⚡ Interests:
 
-Flutter
+- Flutter
 
 🔭 Current project:
 

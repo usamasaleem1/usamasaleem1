@@ -18,6 +18,7 @@ My name is Usama and I'm a Software Engineering student from Canada. I code and 
 
 ⚡ Interests:
 
+- ReactJS
 - CSS, HTML, JS
 - Flutter
 - UI/UX design

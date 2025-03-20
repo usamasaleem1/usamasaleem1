@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Usama and I'm a Software Engineering student from Canada. I code and design. Here's some info about me!
+My name is Usama and I'm a Software Engineer in 🇨🇦. I code and design. Here's some info about me!
 
 ⚡ Interests:
 
